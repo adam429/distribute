@@ -5,4 +5,3 @@ task default: ["spec"]
 
 desc "Run tests"
 task spec: "rspec-rerun:spec"
-# RSpec::Core::RakeTask.new(:spec)

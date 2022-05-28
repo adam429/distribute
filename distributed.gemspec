@@ -1,10 +1,10 @@
-name = "distributed"
+name = "distribute"
 $LOAD_PATH << File.expand_path('lib', __dir__)
 require "#{name}/version"
 
-Gem::Specification.new name, Distributed::VERSION do |s|
-  s.summary     = "Distributed Ruby: distributed processing made simple and fast"
-  s.description = "Distributed Ruby: distributed processing made simple and fast"
+Gem::Specification.new name, Distribute::VERSION do |s|
+  s.summary     = "Distribute: distributed computation made simple and fast"
+  s.description = "Distribute: distributed computation made simple and fast"
   s.authors     = ["Adam429 Lee"]
   s.email       = 'adam429.lee@gmail.com'
   s.files       = `git ls-files lib`.split("\n")

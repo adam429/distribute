@@ -1,7 +1,7 @@
-module Distributed
+module Distribute
   class Worker
     def self.hi
-      return "Hello Wor1ld!"
+      return "Hello World!"
     end
   end
 end

@@ -1,4 +1,4 @@
-Copyright (C) 2021 Adam429 Lee <adam429.lee@gmail.com>
+Copyright (C) 2022 Adam429 Lee <adam429.lee@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

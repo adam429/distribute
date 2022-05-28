@@ -1,3 +1,3 @@
-require 'distributed'
+require 'distribute'
 
-include Distributed
+include Distribute

@@ -1,6 +1,4 @@
-require 'worker/worker'
+require 'distributed/worker'
 
 module Distributed
-  VERSION = '0.0.1'
-
 end

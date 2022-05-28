@@ -1,7 +1,7 @@
 module Distributed
   class Worker
     def self.hi
-      puts "Hello World!"
+      return "Hello Wor1ld!"
     end
   end
 end
